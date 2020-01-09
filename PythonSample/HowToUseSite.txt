@@ -1,0 +1,13 @@
+p3.py is the landing page for my website/webapp 
+-open p3.py first and everything will be linked from there
+
+-In the landing page you will be able to create an artist and gallery as well as search for images 
+and artists
+
+-the landing page has a button to the upload page and modify page
+
+-upload page is where you upload images and modify is where you makes changes/delete anything 
+
+-when you find images if you directly click on the images, it will expand the details 
+
+-all pages have clear navigation on how to go to any page you'd like
